@@ -247,5 +247,5 @@
 <img width="150" height="150" src="https://github.com/extreme-assistant/AI-job-ads/blob/master/image/极市平台公众号二维码.png"/>
 </div>
 
-<div align=center> 关注 **极市平台** 获取最新CV内推信息 </div>
+<div align=center> 关注极市平台,获取最新CV内推信息 </div>
 
