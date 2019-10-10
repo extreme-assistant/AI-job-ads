@@ -149,6 +149,8 @@
 
 [【网易安全部】【校招】【杭州】招聘 计算机视觉算法工程师](http://bbs.cvmart.net/topics/766/job)
 
+[【网易】【秋招】20 届视觉算法岗校园招聘（含内推邀请函）](http://bbs.cvmart.net/topics/532/163-campus-job)
+
 <br>
 
 [【旷视科技】【秋招】20 届视觉算法岗校园招聘 & 旷视秋招攻略问答](http://bbs.cvmart.net/topics/506/megvii-recruit)
@@ -202,10 +204,6 @@
 <br>
 
 [【360 公司】【秋招】2020 届视觉算法岗校园招聘（含内推码）](http://bbs.cvmart.net/topics/537/360-campus)
-
-<br>
-
-[【网易】【秋招】20 届视觉算法岗校园招聘（含内推邀请函）](http://bbs.cvmart.net/topics/532/163-campus-job)
 
 <br>
 
