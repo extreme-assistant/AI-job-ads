@@ -95,7 +95,7 @@
 
 <br>
 
-[【腾讯】【深圳】内推 视频内容理解 算法工程师 \ 实习生 ]（http://bbs.cvmart.net/topics/440/Tencent--recruit）
+[【腾讯】【深圳】内推 视频内容理解 算法工程师 \ 实习生 ]( http://bbs.cvmart.net/topics/440/Tencent--recruit)
 
 <br>
 
@@ -140,3 +140,97 @@
 <br>
 
 [【PlusAI 智加科技】【上海 / 苏州】招聘自动驾驶算法工程师 and 实习生](http://bbs.cvmart.net/topics/374) 
+
+<br>
+
+## 校招内推
+
+<br>
+
+[【网易安全部】【校招】【杭州】招聘 计算机视觉算法工程师](http://bbs.cvmart.net/topics/766/job)
+
+<br>
+
+[【旷视科技】【秋招】20 届视觉算法岗校园招聘 & 旷视秋招攻略问答](http://bbs.cvmart.net/topics/506/megvii-recruit)
+
+[【旷视】【秋招】【北京\上海】旷视研究院 2020 届博士秋招](http://bbs.cvmart.net/topics/497/megvii-job)
+
+<br>
+
+[【依图科技】【秋招】依图科技 2020 秋招开启-算法岗（含内推链接）](http://bbs.cvmart.net/topics/659/lt-job)
+
+<br>
+
+[【平安科技】【秋招】2020 校园招聘内推-计算机视觉工程师（含内推码）](http://bbs.cvmart.net/topics/651/pa-job)
+
+<br>
+
+[【搜狗】【秋招】搜狗 2020 校园招聘内推-图像算法工程师方向（含内推二维码）](http://bbs.cvmart.net/topics/570/sg-job)
+
+<br>
+
+[【海康威视】【秋招】2020届CV招聘岗位网申（有内推码）](https://mp.weixin.qq.com/s/PBy1iFzzRXOoNgTC6Vdwlw)
+
+<br>
+
+[【码隆科技】【秋招】20 届校园招聘内推-算法工程师 / 研究员（含内推链接）](http://bbs.cvmart.net/topics/594/ml-job)
+
+<br>
+
+[【快手】【秋招】20 届视觉算法岗校园招聘提前批 (含内推链接）](http://bbs.cvmart.net/topics/569/ks-job)
+
+<br>
+
+[【大华】【秋招】20 届校园招聘内推-图像算法工程师方向（含内推码）](http://bbs.cvmart.net/topics/563/dh-job)
+
+<br>
+
+[【搜狐】【秋招】搜狐集团 2020 校园招聘算法工程师岗（含内推邮箱）](http://bbs.cvmart.net/topics/557/sh-job)
+
+<br>
+
+[【滴滴出行】【秋招】滴滴 2020 校园招聘正式启动（含内推信息）](http://bbs.cvmart.net/topics/554/didi-job)
+
+<br>
+
+[【新浪】【秋招】新浪&微博 2020 校招算法工程师岗（含内推码）](http://bbs.cvmart.net/topics/555/xljob)
+
+<br>
+
+[【顺丰科技】【秋招】20 届视觉算法岗校招提前批（含内推码）](http://bbs.cvmart.net/topics/548/sf-express-job)
+
+<br>
+
+[【360 公司】【秋招】2020 届视觉算法岗校园招聘（含内推码）](http://bbs.cvmart.net/topics/537/360-campus)
+
+<br>
+
+[【网易】【秋招】20 届视觉算法岗校园招聘（含内推邀请函）](http://bbs.cvmart.net/topics/532/163-campus-job)
+
+<br>
+
+[【小米】【秋招】20 届视觉算法岗校园招聘](http://bbs.cvmart.net/topics/524/xiaomi-campus)
+
+<br>
+
+[【华为】【秋招】20 届视觉算法岗校园招聘](http://bbs.cvmart.net/topics/520/huawei-career)
+
+<br>
+
+[【字节跳动】【秋招】20 届视觉算法岗校园招聘（含内推码）](http://bbs.cvmart.net/topics/519/bytedance-job)
+
+<br>
+
+[【商汤科技】【秋招】20 届校园招聘-视觉算法岗](http://bbs.cvmart.net/topics/518/sensetime-job)
+
+<br>
+
+[【奥比中光】奥比中光 2020 届校招提前批招聘启动](http://bbs.cvmart.net/topics/511/orbbec-job)
+
+<br>
+
+[【云从科技】【秋招】20 届算法岗校园招聘（含内推邮箱）](http://bbs.cvmart.net/topics/509/cloudwalk-job)
+
+<br>
+
+[【图森未来】【秋招】20 届视觉算法岗校园招聘提前批 (含内推邮箱）](http://bbs.cvmart.net/topics/528/tusenweilai-job)
