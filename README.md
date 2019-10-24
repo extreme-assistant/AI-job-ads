@@ -11,6 +11,14 @@
 
 <br>
 
+[【图森未来】【校招 / 实习】【北京】感知算法研究员 / 定位与高精度地图算法研究员 ](http://bbs.cvmart.net/topics/1090)
+
+[【图森未来】【实习】【北京】内推 感知算法实习生](http://bbs.cvmart.net/topics/692/tusenweilai-job)
+
+
+<br>
+
+
 [【地平线】【实习】【北京】人体关键点方向和视频结构化实习生招聘 ](http://bbs.cvmart.net/topics/1070)
 
 [【地平线】【实习】【北京】多目标跟踪方向实习生招聘 ](http://bbs.cvmart.net/topics/1053/job)
@@ -36,10 +44,6 @@
 [【腾讯】【实习】【深圳】 TEG-AI 医疗 AI 中心招实习生啦！](http://bbs.cvmart.net/topics/812/job)
 
 [【腾讯】【深圳】内推 视频内容理解 算法工程师 \ 实习生 ](http://bbs.cvmart.net/topics/440/Tencent--recruit)
-
-<br>
-
-[【图森未来】【实习】【北京】内推 感知算法实习生](http://bbs.cvmart.net/topics/692/tusenweilai-job)
 
 <br>
 
