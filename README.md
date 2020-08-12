@@ -292,7 +292,7 @@
 添加**极市小助手微信（ID : cv-mart）**备注：**内推进群-姓名-学校-研究方向**，即可加入**【极市】2020CV高校秋招内推群**，和小伙伴们一起交流秋招最新资讯，面试经验技巧，还有热心的前辈师兄指点迷津呢。极市将陪你走好职业生涯起航第一步~
 
 <div align=center>
-<img width="150" height="150" src="https://github.com/extreme-assistant/AI-job-ads/blob/master/image/极市平台公众号二维码.png"/>
+<img width="150" height="150" src="https://github.com/extreme-assistant/AI-job-ads/blob/master/%E6%9E%81%E5%B8%82%E5%B9%B3%E5%8F%B0%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"/>
 </div>
 
 <div align=center> 关注极市平台,获取最新CV内推信息 </div>
