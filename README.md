@@ -9,6 +9,10 @@
 
 ## 2021届校招AI算法岗内推
 
+[【大疆 | 2021 校招&内推】 招聘视觉算法工程师](https://bbs.cvmart.net/topics/2901)
+
+<br>
+
 [极市内推 | 虎牙 2021 届校园招聘全面开启（含内推码）](https://bbs.cvmart.net/topics/3066)
 
 <br>
