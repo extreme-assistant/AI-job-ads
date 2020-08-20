@@ -147,7 +147,7 @@
 
 <br>
 
-[极市内推 | 阿里达摩院-招聘研究型算法实习生](https://bbs.cvmart.net/topics/3164)
+[【阿里达摩院 | 内推】 招聘研究型算法实习生](https://bbs.cvmart.net/topics/3164)
 
 <br>
 
