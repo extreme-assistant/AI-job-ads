@@ -147,6 +147,10 @@
 
 <br>
 
+[极市内推 | 阿里达摩院-招聘研究型算法实习生](https://bbs.cvmart.net/topics/3164)
+
+<br>
+
 [【图森未来】【校招 / 实习】【北京】感知算法研究员 / 定位与高精度地图算法研究员 ](http://bbs.cvmart.net/topics/1090)
 
 [【图森未来】【实习】【北京】内推 感知算法实习生](http://bbs.cvmart.net/topics/692/tusenweilai-job)
