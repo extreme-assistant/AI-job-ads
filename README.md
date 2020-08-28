@@ -157,6 +157,12 @@
 
 <br>
 
+
+[【旷视 | 实习生&内推】旷视人脸组招聘视觉算法实习生（含内推邮箱）](https://bbs.cvmart.net/topics/3213)
+
+<br>
+
+
 [【阿里达摩院 | 内推】 招聘研究型算法实习生](https://bbs.cvmart.net/topics/3164)
 
 <br>
