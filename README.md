@@ -11,6 +11,10 @@
 
 <br>
 
+[【阿里云人工智能实验室 | 校招】2021 届校园招聘 (含内推邮箱)](https://bbs.cvmart.net/topics/3280)
+
+[【影石 | 校招】Insta360 影石 2021 校园招聘算法工程师（含内推邮箱）](https://bbs.cvmart.net/topics/3283)
+
 [【华为 | 校招&实习生】华为诺亚方舟计算视觉实验室招聘（含内推邮箱）](https://bbs.cvmart.net/topics/3175)
 
 <br>
